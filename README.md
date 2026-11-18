@@ -43,9 +43,6 @@
 ## 🏆 GitHub Trophies
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pratik-2805&label=Profile%20views&color=0e75b6&style=flat" alt="pratik-2805" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pratik-2805" alt="pratik-2805" /></a> </p>
-
 ---
 
 ## 🧠 Currently Learning
